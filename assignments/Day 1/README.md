@@ -5,9 +5,9 @@
  
 ## Progress Summary
 - **Status:** 🟡 In Progress
-- **Submitted Questions:** 1 / 4
-- **Total Score:** 10 / 22 points
-- **Last Updated:** 6/15/2026, 1:18:16 PM (IST)
+- **Submitted Questions:** 2 / 4
+- **Total Score:** 14 / 22 points
+- **Last Updated:** 6/15/2026, 1:20:15 PM (IST)
  
 ---
  
@@ -16,12 +16,17 @@
 |---|----------------|------------|-------|--------|-----------|
 | 1 | Question 1 | easy | - / 4 | 🔴 Pending | - |
 | 2 | Question 2 | easy | - / 4 | 🔴 Pending | - |
-| 3 | Question 3 | easy | - / 4 | 🔴 Pending | - |
+| 3 | Question 3 | easy | 4 / 4 | 🟢 Passed | [View Code](./Question%203/question.java) |
 | 4 | Question 4 | easy | 10 / 10 | 🟢 Passed | [View Code](./Question%204/question.java) |
 
 ---
  
 ## Detailed Test Case Results
+
+### Question 3: Question 3
+- **Score:** 4 / 4 points
+- **Visible Test Cases:** 2 / 2 passed
+- **Hidden Test Cases:** 2 / 2 passed
 
 ### Question 4: Question 4
 - **Score:** 10 / 10 points
